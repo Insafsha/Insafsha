@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🎯 Insaf Sharipov
+## Data Analyst & Python Developer
 
-<!--
-**Insafsha/Insafsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Привет! Я начинающий разработчик и аналитик данных.  
+Работаю с Python, SQL, API, автоматизацией процессов и пользовательской аналитикой.  
+Строю дашборды, считаю продуктовые метрики, провожу A/B-тесты и интегрирую внешние сервисы.
 
-Here are some ideas to get you started:
+## 🚀 Стек технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Языки:** Python, SQL   
+**Инструменты:** Pandas, Matplotlib, Seaborn, Flask, n8n, Git, Linux  
+**Аналитика:** A/B-тесты, EDA, продуктовые метрики, визуализация  
+**БД:** PostgreSQL, Supabase  
+**API:** интеграции, заказные Webhooks, обработка JSON/HTTP
+
+## 📊 Лучшие проекты
+
+### 🔹 Tourism Analytics Dashboard (SQL + Metabase)
+Полный продуктовый кейс: проектирование схемы БД, генерация данных, аналитические SQL-запросы и дашборд.
+
+**Технологии:** SQL, PostgreSQL, Metabase, Python  
+**Ссылка:** https://github.com/Insafsha/sql-tourism-analytics-dashboard
+
+### 🔹 Product Metrics Dashboard
+Аналитика продукта, визуализация ключевых пользовательских метрик.
+
+**Технологии:** Python, Pandas, Seaborn, Plotly  
+**Ссылка:** https://github.com/Insafsha/product-metrics-dashboard
+
+### 🔹 A/B-test Hypothesis
+Статистический анализ эксперимента, визуализация, выводы.
+
+**Технологии:** A/B-тестирование, статистика, Python  
+**Ссылка:** https://github.com/Insafsha/ab-test-hypothesis
+
+### 🔹 EDA: Data Cleaning
+Исследовательский анализ данных, feature-engineering и подготовка датасета.
+
+**Технологии:** Pandas, Python, визуализация  
+**Ссылка:** https://github.com/Insafsha/eda-data-cleaning
+
+## 🧩 О себе
+
+переделать
+## 📫 Контакты
+
+**📧 Email:** sharipoffinsaf228@yandex.ru  
+**💼 GitHub:** github.com/Insafsha
