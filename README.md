@@ -30,6 +30,13 @@
 **Технологии:** SQL, PostgreSQL, Metabase, Python  
 **Ссылка:** https://github.com/Insafsha/sql-tourism-analytics-dashboard
 
+
+### 🔹 EDA: Data Cleaning
+Исследовательский анализ данных, feature-engineering и подготовка датасета.
+
+**Технологии:** Pandas, Python, визуализация  
+**Ссылка:** https://github.com/Insafsha/eda-data-cleaning
+
 ### 🔹 Product Metrics Dashboard
 Аналитика продукта, визуализация ключевых пользовательских метрик.
 
@@ -41,12 +48,6 @@
 
 **Технологии:** A/B-тестирование, статистика, Python  
 **Ссылка:** https://github.com/Insafsha/ab-test-hypothesis
-
-### 🔹 EDA: Data Cleaning
-Исследовательский анализ данных, feature-engineering и подготовка датасета.
-
-**Технологии:** Pandas, Python, визуализация  
-**Ссылка:** https://github.com/Insafsha/eda-data-cleaning
 
 
 ## 📫 Контакты
