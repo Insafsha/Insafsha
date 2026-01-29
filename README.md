@@ -37,17 +37,7 @@
 **Технологии:** Pandas, Python, визуализация  
 **Ссылка:** https://github.com/Insafsha/eda-data-cleaning
 
-### 🔹 Product Metrics Dashboard
-Аналитика продукта, визуализация ключевых пользовательских метрик.
 
-**Технологии:** Python, Pandas, Seaborn, Plotly  
-**Ссылка:** https://github.com/Insafsha/product-metrics-dashboard
-
-### 🔹 A/B-test Hypothesis
-Статистический анализ эксперимента, визуализация, выводы.
-
-**Технологии:** A/B-тестирование, статистика, Python  
-**Ссылка:** https://github.com/Insafsha/ab-test-hypothesis
 
 
 ## 📫 Контакты
