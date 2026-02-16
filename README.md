@@ -1,5 +1,5 @@
 #  Insaf Sharipov
-## Data Analyst & Python Developer
+## Data Analyst 
 
 Привет! Я аналитик данных и Python-разработчик.
 Автоматизирую процессы (Python), работаю с PostgreSQL, API и построением метрик.
