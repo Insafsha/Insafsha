@@ -15,6 +15,12 @@
 **API:** интеграции, заказные Webhooks, обработка JSON/HTTP
 
 ##  Лучшие проекты
+### 🔹 Tourism Analytics Dashboard (SQL + Metabase)
+Полный продуктовый кейс: проектирование схемы БД, генерация данных, аналитические SQL-запросы и дашборд.
+
+**Технологии:** SQL, PostgreSQL, Metabase, Python  
+**Ссылка:** https://github.com/Insafsha/sql-tourism-analytics-dashboard
+
 ### 🔹 EDA: Data Cleaning
 Исследовательский анализ данных, feature-engineering и подготовка датасета.
 
