@@ -15,6 +15,12 @@
 **API:** интеграции, заказные Webhooks, обработка JSON/HTTP
 
 ##  Лучшие проекты
+### 🔹 EDA: Data Cleaning
+Исследовательский анализ данных, feature-engineering и подготовка датасета.
+
+**Технологии:** Pandas, Python, визуализация  
+**Ссылка:** https://github.com/Insafsha/eda-data-cleaning
+
 ### 🔹 ITMO Python Projects (10 учебных работ)
 
 Серия из 10 завершённых учебных проектов: алгоритмы, работа с файлами, API, Tkinter, OpenCV, веб-разработка на Flask, обработка данных и голосовые интерфейсы.  
@@ -23,21 +29,6 @@
 **Технологии:** Python, Flask, SQLAlchemy, Tkinter, OpenCV, SQLite, requests, регулярные выражения, API, VOSK, PyAudio, Pillow
 
 **Ссылка:** https://github.com/Insafsha/itmo_python_projects
-
-### 🔹 Tourism Analytics Dashboard (SQL + Metabase)
-Полный продуктовый кейс: проектирование схемы БД, генерация данных, аналитические SQL-запросы и дашборд.
-
-**Технологии:** SQL, PostgreSQL, Metabase, Python  
-**Ссылка:** https://github.com/Insafsha/sql-tourism-analytics-dashboard
-
-
-### 🔹 EDA: Data Cleaning
-Исследовательский анализ данных, feature-engineering и подготовка датасета.
-
-**Технологии:** Pandas, Python, визуализация  
-**Ссылка:** https://github.com/Insafsha/eda-data-cleaning
-
-
 
 
 ## 📫 Контакты
